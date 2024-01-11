@@ -1,0 +1,7 @@
+site_name: testing-apache-aws-praven
+
+nav:
+  - Home: README.md
+
+plugins:
+  - techdocs-core
